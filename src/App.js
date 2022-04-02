@@ -16,7 +16,7 @@ export default class App extends Component {
     p5.fill(255);
     p5.textStyle(p5.BOLD);
     p5.textSize(140);
-    p5.text("p5*", 60, 250);
+    p5.text("唐🐟", 60, 250);
   };
 
   render() {
